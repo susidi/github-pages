@@ -9,7 +9,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 - **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
 - **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
 
-- **How long**: This exercise takes less than one hour to complete.
+- **How long**: This 
 
 In this exercise, you will:
 
